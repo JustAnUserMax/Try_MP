@@ -1,0 +1,22 @@
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\Try_MP.exe.config
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\Try_MP.exe
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\Try_MP.pdb
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try MP.csprojAssemblyReference.cache
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.Properties.Resources.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try MP.csproj.GenerateResource.cache
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try MP.csproj.CoreCompileInputs.cache
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.exe
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.pdb
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.AddForm.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.DeleteForm.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.EditForm.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.Form1.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try_MP.Exception.resources
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.dll
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.pdb
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.xml
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\obj\Debug\Try MP.csproj.CopyComplete
+E:\Моя папка\Creative\RiderProject\Try MP\Try MP\bin\Debug\Microsoft.Office.Interop.Excel.dll
